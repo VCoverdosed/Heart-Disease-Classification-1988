@@ -1,5 +1,4 @@
 # Heart-Disease-Classification-1988
-Supervised Learning--Classification; Unsupervised Learning--Dimensional Reduction
 
 In this project, we will be analysing a Heart Disease dataset from 1988, consisting of data from Cleveland, Hungary, Switzerland and Long Beach. In hopes of understanding the dataset and making predictions of presence of heart disease in a person, we will try to tackle a supervised and an unsupervised task. 
 
